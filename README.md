@@ -9,7 +9,7 @@ Follow this link: https://seedsecuritylabs.org/labsetup.html
 
  # How to use
 
- ```python3 automatedAttack.py port-number``
+ ```python3 automatedAttack.py port-number```
 
  the port number is either 5000 or 6000. 
 

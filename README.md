@@ -13,3 +13,7 @@ Follow this link: https://seedsecuritylabs.org/labsetup.html
 
  the port number is either 5000 or 6000. 
 
+
+# Contributors
+* [Hamza Awashraj](https://github.com/hawashra)
+* [Faris Abufarha](https://github.com/faris771)
